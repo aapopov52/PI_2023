@@ -1,0 +1,4 @@
+transformers
+fastapi
+uvicon
+transformers[torch]
