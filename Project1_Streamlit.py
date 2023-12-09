@@ -7,7 +7,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 #@st.cache(allow_output_mutation=True)
 def load_model():
-    return model = WhisperModel("large-v2")
+    return WhisperModel("large-v2")
 
 
 st.title('Выделяем текст из видео')
