@@ -1,0 +1,4 @@
+moviepy
+pytube
+faster_whisper
+youtube_transcript_api
